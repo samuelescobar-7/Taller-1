@@ -1,0 +1,13 @@
+tipo:Extra:15000:80.0
+tipo:Corriente:12000:0.0
+tipo:Premium:17000:100.0
+tipo:Ultra Premium:20000:149.75
+surtidor:Samuel Escobar:Extra:0.0:Corriente:0.0:Premium:0.0:Ultra Premium:0.0
+surtidor:Samuel Escobar:Extra:0.0:Corriente:0.0:Premium:0.0:Ultra Premium:0.0
+surtidor:Nicolas Hernandez:Extra:0.0:Corriente:0.0:Premium:0.0:Ultra Premium:0.25
+surtidor:Felipe Boada:Extra:0.0:Corriente:70.0:Premium:0.0:Ultra Premium:0.0
+empleado:Samuel Escobar:0
+empleado:Samuel Carrillo:0
+empleado:Juan Camacho:0
+empleado:Felipe Boada:840000
+empleado:Nicolas Hernandez:5000
